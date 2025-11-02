@@ -169,7 +169,7 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 
 ## 📚 Citation
 
-If you find this repository helpful, please consider citing our paper (BibTeX placeholder):
+If you find this repository helpful, please consider citing our paper:
 
 ```bibtex
 @article{tvt-aster-2025,
